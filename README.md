@@ -4,7 +4,7 @@
 
 Specializes in clean, reproducible workflows, thoughtful feature engineering, and model development that balances performance with interpretability. Passionate about uncovering patterns, solving real-world problems with data, and presenting findings through compelling visuals and narrative.
 
-Also a dedicated electronic music aficionado and lifelong learner who enjoys exploring new technologies, tools, and ideas.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/e/2PACX-1vQvwMAXW5I7ZRyaWEh8TiRfmdYfT3edYQTk6hC9bpPxaiWyoZmpRm6PAQA50k3kxbO40mpbcuQEg20P/pub ' target=_blank><u>here</u>.</a></p>
+Also a dedicated electronic music aficionado and lifelong learner who enjoys exploring new technologies, tools, and ideas.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1qf3NJLCqfm4_WD9JSYDUp4JSnHgtq3OJl7_X9Yk4Fd8/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kevinl25 alt=kevinl25 /> </p>
 
